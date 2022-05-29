@@ -1,0 +1,9 @@
+.home-page{
+    width:700px;
+    /* border: 1px solid gray; */
+    display: block;
+    margin: auto;
+    margin-top:10px;
+    border-top: none;
+   
+}

@@ -1,0 +1,11 @@
+.blog{
+    /* border: 1px solid red; */
+    margin: 50px 0px;
+    padding: 0px 5px;
+    background-color: aliceblue;
+}
+.blog h4{
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 6px;
+}

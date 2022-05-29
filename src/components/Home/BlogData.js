@@ -1,0 +1,5 @@
+export  const blogData = [
+      {id:1, title:"About know the see",body:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente adipisci temporibus ex praesentium qui ipsa corrupti dicta iure quas quaerat, harum laborum consequuntur natus et nemo, odio quae modi saepe dolores nostrum doloremque illum. Dolores dolorum perferendis fugit blanditiis rerum beatae explicabo", img:"https://www.daily-bangladesh.com/media/imgAll/2020June/uuuuuuuuuuuuuuuu-2009161045.jpg"},
+      {id:2, title:"About know the computer system",img:"https://cdn.britannica.com/61/74061-050-47B62C0E/computer-peripherals-images-laser-printer-inkjet-layout.jpg",body:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente adipisci temporibus ex praesentium qui ipsa corrupti dicta iure quas quaerat, harum laborum consequuntur natus et nemo, odio quae modi saepe dolores nostrum doloremque illum. Dolores dolorum perferendis fugit blanditiis rerum beatae explicabo"},
+      {id:3, title:"Web design", body:"Lorem ipsum ",img:"https://i.pinimg.com/originals/8a/d4/80/8ad480ea557c6029ec04077a159e81e1.png"}
+];
